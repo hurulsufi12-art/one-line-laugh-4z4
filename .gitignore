@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+output/
+.venv/
+transcripts.tar.gz
+.DS_Store
